@@ -1,7 +1,7 @@
 # ExploreSolr
 Clone - import and run this as a Maven project.
 
-Simple Spring Boot Application that demonstrates two endpoints.
+A simple Spring Boot Application that demonstrates two endpoints.
 
 1. **/solr/hello-world** - accepts two string parameters and returns them as an array with some additional string.
 2. **/solr/search** - searches the configured (in application.properties) Solr instance using a query that
