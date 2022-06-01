@@ -14,7 +14,7 @@ Self documenting, with unambiguous names, minimum exposure of data for the desir
 compartmentalization of concerns, with each endpoint targeting a specific concern.
 
 ### Notes - REST
-#### HTTP Verbs - Request Methods
+#### HTTP Verbs - Commonly used Request Methods
 1. GET - retrieves a resource specified in the URL and returns it
 2. POST - creates the resource specified by the URL and the body
 3. PUT - replace the existing resource specifiedd by the URL or creates it
