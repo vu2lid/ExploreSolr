@@ -15,11 +15,11 @@ compartmentalization of concerns, with each endpoint targeting a specific concer
 
 ### Notes - REST
 #### HTTP Verbs - Commonly used Request Methods
-1. GET - retrieves a resource specified in the URL and returns it
-2. POST - creates the resource specified by the URL and the body
-3. PUT - replace the existing resource specifiedd by the URL or creates it
-4. PATCH - partially updates a resource specified by the URL
-5. DELETE - deletes a resource specified by the URL
+1. GET - retrieves a resource specified in the URI and returns it
+2. POST - creates the resource specified by the URI and the body
+3. PUT - replace the existing resource specifiedd by the URI or creates it
+4. PATCH - partially updates a resource specified by the URI
+5. DELETE - deletes a resource specified by the URI
 
 These are conventions: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 
