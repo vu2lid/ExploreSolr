@@ -28,3 +28,4 @@ These are conventions: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 #### References
 1. [Spring Guides](https://spring.io/guides)
 2. [Solr Tutorial](https://solr.apache.org/guide/8_11/solr-tutorial.html)
+3. [IBM REST API Conventions](https://www.ibm.com/docs/en/urbancode-build/6.1.2?topic=reference-rest-api-conventions)
