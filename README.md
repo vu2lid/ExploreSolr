@@ -30,3 +30,4 @@ These are conventions: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 2. [Solr Tutorial](https://solr.apache.org/guide/8_11/solr-tutorial.html)
 3. [IBM REST API Conventions](https://www.ibm.com/docs/en/urbancode-build/6.1.2?topic=reference-rest-api-conventions)
 4. [SWAGGER API Design Best Practices](https://swagger.io/blog/api-design/api-design-best-practices/)
+5. [Microsoft RESTful Web API Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
